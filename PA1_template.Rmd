@@ -262,3 +262,8 @@ xyplot(mean ~ interval | daytype, mean_data,
        layout=c(1,2))
 ```
 
+
+
+
+
+
