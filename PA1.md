@@ -5,7 +5,6 @@ by shilm
 github repo with RMarkdown source code:
 https://github.com/shilmi/RepData_PeerAssessment1-1
 
-
 ## Loading and preprocessing the data
 We assume that the reader set the correct R working directory with the setwd() function.
 
