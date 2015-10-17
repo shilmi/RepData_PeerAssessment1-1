@@ -3,7 +3,8 @@ Reproducible Research: Peer Assessment 1
 by shilm
 
 github repo with RMarkdown source code:
-https://github.com/shilmi/RepData_PeerAssessment1-1
+https://github.com/shilmi/RepData_PeerAssessment1-1;
+
 https://htmlpreview.github.io/?https://github.com/shilmi/RepData_PeerAssessment1-1/blob/master/PA1.html
 
 ## Loading and preprocessing the data
